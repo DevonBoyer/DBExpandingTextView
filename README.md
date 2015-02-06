@@ -9,7 +9,8 @@ maximum height. It also contains support for a placeholder.
 
 ####Supports####
 
-Written in Swift.
+Written in Swift
+
 iOS 7.0+
 
 ####How do I get set up?####
