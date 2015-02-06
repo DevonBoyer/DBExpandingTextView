@@ -1,6 +1,6 @@
 # DBExpandingTextView
 
-![alt tag](https://cloud.githubusercontent.com/assets/5367914/6086748/2b59b470-ae12-11e4-8b18-e944aa6fc7af.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5367914/6086799/9acf5ae4-ae12-11e4-90ca-9bb60f5854cd.png)
 
 ####What is this repository for?####
 
