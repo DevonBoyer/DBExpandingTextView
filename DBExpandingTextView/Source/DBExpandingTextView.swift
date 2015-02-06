@@ -27,13 +27,13 @@ import UIKit
 
 /*!
  * @abstract An instance of 'DBExpandingTextView' will expand and compress to fit the currently composed text until it reaches
- * the maximum height. A 'DBExpandingTextView' also contains support for a placeholder.
+ * a maximum height. A 'DBExpandingTextView' also contains support for a placeholder.
  * 
  * @discussion A 'DBExpandingTextView' will never compress below the height of the inital frame or expand past the maximum height.
  *
- * @warning When using 'DBExpandingTextView' with autolayout do not use a height constraint since the text view expands and 
- * compresses as needed, which will continuously cause the constraint to break. As long as it is appropriate use top and bottom
- * spacing constraints instead.
+ * @warning When using 'DBExpandingTextView' with autolayout do not use 'NSLayoutAttributeHeight'constraints since the text view expands and
+ * compresses as needed, which will continuously cause the constraint to break. As long as it is appropriate use 'NSLayoutAttributeTop' and 
+ * 'NSLayoutAttributeBottom' spacing constraints instead.
  */
 class DBExpandingTextView: UITextView {
     
