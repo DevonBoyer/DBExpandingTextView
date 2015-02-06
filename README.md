@@ -4,7 +4,7 @@
 
 ####What is this repository for?####
 
-A text view that will expand and compress to fit the currently composed text until it reaches it's
+A text view that will expand and compress to fit the currently composed text until it reaches a
 maximum height. It also contains support for a placeholder.
 
 ####Supports####
